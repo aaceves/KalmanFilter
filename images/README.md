@@ -1,3 +1,4 @@
+##Nota
 Estas imágenes fueron tomadas del repositorio de Student Dave's [1]. Aunque el autor presenta un programa en Matlab, se puede traducir todo el código a lenguaje Pyton.
 
 [1] Student Dave's, “Object tracking with 2D Kalman Filter tutorial”, http://studentdavestutorials.weebly.com/object-tracking-2d-kalman-filter.html /
