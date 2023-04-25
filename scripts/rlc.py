@@ -4,14 +4,9 @@ import matplotlib.pyplot as plt
 
 def kalman(A,B,F,C,Q,R,xk,Pk,uk,yk):
     #Correction
-    if not np.isnan(yk):
-        Gk=Pk*(C.T)*np.linalg.inv(C*Pk*(C.T)+R)
-        xk=xk+Gk*(yk-C*xk)
-        I = np.eye(A.shape[0])
-        Pk=(I-Gk*C)*Pk
+    # TODO
     #Prediction
-    xk1=A*xk+B*uk
-    Pk1=A*Pk*(A.T)+F*Q*(F.T)
+    #TODO
     return xk1,Pk1
 
 def node():
