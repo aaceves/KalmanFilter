@@ -8,5 +8,5 @@ En una terminal escribir:
 
 ```
 cd ~/catkin_ws
-git clone https://github.com/aaceves/hector_quadrotor.git
+git clone https://github.com/aaceves/KalmanFilter.git
 ```
