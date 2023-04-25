@@ -6,7 +6,7 @@ Material para la clase de Filtro de Kalman
 
 En una terminal escribir:
 
-'''
+```
 cd ~/catkin_ws
 git clone https://github.com/aaceves/hector_quadrotor.git
-'''
+```
